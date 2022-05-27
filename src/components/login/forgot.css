@@ -1,0 +1,66 @@
+.bgimg{
+  height: 100%;
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: -1;
+  background-image: url('../images/Glassmorphism\ Modern\ Desktop\ Wallpaper\ Organizer\ \(1\).png');}
+  
+  .hint1{
+    font-size: 30px;
+    font-weight: 200;
+    text-align: center;
+    padding-top: 18%;
+  }
+  
+  .input123 {
+    border: 1px solid rgba(252, 252, 252, 0.4);
+    background-color: rgba(252, 252, 252, 0.2);
+    width: 250px;
+    border-radius: 3px;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 10px 15px;
+    margin: 1% auto 30px 43%;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-weight: 300;
+  }
+  .password{
+    border: 1px solid rgba(252, 252, 252, 0.4);
+    background-color: rgba(252, 252, 252, 0.2);
+    width: 250px;
+    border-radius: 3px;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 10px 15px;
+    margin: 1% auto 45px 43%;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-weight: 300;   
+  }
+  
+  button {
+    appearance: none;
+    outline: 0;
+    background-color: white;
+    border: 0;
+    padding: 10px 0px;
+    color: #50a3a2;
+    border-radius: 3px;
+    width: 85px;
+    margin-left: 0%;
+    font-size: 18px;
+  }
+  
+
+  .signUP{
+    margin-top: 3%;
+    margin-left: 44%;
+  }
